@@ -1,6 +1,9 @@
-# IoT Project 
-This is a repository for my IoT class project. It will contain code for sensors and controllers. 
-
-## WEEK 2 Updates:
-- Zeyad Joined the community
+# SEEL 4213 IoT Project
+## Group name:
+*Jagged Jaguar*
+## Group Members
+1. Zeyad Abdelhalim
+2. Omar Alsayed
+3. Omar Soltan
+4. Danish
 
