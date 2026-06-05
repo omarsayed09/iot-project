@@ -1,1 +1,1 @@
-BlynkLib==0.2.6
+blynklib
